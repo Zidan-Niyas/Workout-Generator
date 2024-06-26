@@ -8,4 +8,4 @@ The Workout Generator is a web application that allows users to create customize
 - **React.js**
 - **Tailwind CSS** 
 
-![Screenshot from 2024-05-26 14-09-14](https://github.com/Zidan-Niyas/react/assets/87656623/38de10eb-0613-494e-83e3-9999966a8953)
+
